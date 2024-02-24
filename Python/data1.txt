@@ -1,0 +1,2 @@
+Checking if we can write some text into a txt file
+Hey Im new here! 
