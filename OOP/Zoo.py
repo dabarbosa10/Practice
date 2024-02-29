@@ -24,4 +24,4 @@ my_zoo.add_animal("Crocodile", "Reptile")
 
 
 for animal in my_zoo.animals:
-    animal.display_info()
+    animal.display_info( )
